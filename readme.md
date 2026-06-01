@@ -211,7 +211,8 @@
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
-
+- [codeglance](https://github.com/mansoor-mamnoon/codeglance) - Instant codebase orientation: detects framework, run/build/test commands, and key files to read first.
+  
 ### Functional programming
 
 - [lodash](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
